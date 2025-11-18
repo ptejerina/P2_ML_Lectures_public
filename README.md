@@ -4,7 +4,7 @@ Notebooks for the lectures by Pablo Tejerina and Pedro Tarancon for the ML part 
 
 ## How to create a python virtual environnt using conda
 
-conda create -n myenv python=3.10
+conda create -n myenv python=3.11.19
 
 conda activate myenv
 
@@ -17,7 +17,7 @@ pip list # Verify installed packages
 
 ## How to create a Python environment sithout conda:
 
-python3 -m venv venv
+python3 -m venv venv python=3.11.9
 
 source venv/bin/activate
 

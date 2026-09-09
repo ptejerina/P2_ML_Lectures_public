@@ -15,7 +15,7 @@ pip install -r requirements.txt
 pip list # Verify installed packages
 
 
-## How to create a Python environment sithout conda:
+## How to create a Python environment without conda:
 
 python3 -m venv venv python=3.11.9
 

@@ -9,7 +9,7 @@ Notebooks for the lectures by Pablo Tejerina and Pedro Tarancon for the ML part 
 - `requirements.txt`: Python packages for all the notebooks.
 
 ## Setup
-Create a conda environment and install the requirements:
+Create a conda environment and install the requirements (needs 1.4GB of free disc memory):
 ```
 conda create -n ML_lectures python=3.11
 conda activate ML_lectures
